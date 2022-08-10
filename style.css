@@ -1,0 +1,38 @@
+.container {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.col {
+    font-size: 5rem;
+    margin: 30px;
+    padding-block: 10px;
+}
+
+.box {
+    box-sizing: content-box;
+    font-size: 5rem;
+    margin: auto;
+    border: 100px;
+    background-color: aqua;
+}
+
+.input {
+    font-size: 8rem;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+
+
+}
+    
+
